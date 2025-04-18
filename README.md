@@ -1,5 +1,5 @@
-# 🏥 Student Health And Wellness Management System (SHWMS) - Group Software
-The **Student Health And Wellness Management System (SHWMS)** is a comprehensive software engineering course project developed by Group Software in collaboration with Pusat Kesihatan Universiti (PKU) at Universiti Teknologi Malaysia (UTM). It aims to enhance the wellbeing of university students by providing an accessible platform to manage their physical, mental, and emotional health.<br><br>
+# 🏥 Student Health And Wellness Management System (SHWMS)
+The **Student Health And Wellness Management System (SHWMS)** is a comprehensive software engineering course project developed by **Group Software** in collaboration with Pusat Kesihatan Universiti (PKU) at Universiti Teknologi Malaysia (UTM). It aims to enhance the wellbeing of university students by providing an accessible platform to manage their physical, mental, and emotional health.<br><br>
 **This repository serves as the central hub for the project's design artifacts and documentation. The primary deliverable is a high-fidelity, interactive prototype created exclusively using Figma.** The initial user scope focuses on students residing at Kolej Tun Dr. Ismail (KTDI), UTM.
 <br><br>
 
@@ -39,15 +39,15 @@ This project focuses entirely on the **design and documentation** of the SHWMS a
 - P006: Dental Health Appointment
 - P007: Feedback and Reviews
 
-*(Refer to the [SRS Document](https://docs.google.com/document/d/1IYG7GiCYAsp6VpTwAMfNKDYWtK1Ys9vY/edit) for detailed Use Case descriptions, Activity Diagrams, and Sequence Diagrams.)*
-<br>
+*(Refer to the [SRS Document](https://github.com/kohxuan/StudentHealthAndWellnessManagementSystem/blob/main/docs/SystemRequirementSpecification-SRS.pdf) for detailed Use Case descriptions, Activity Diagrams, and Sequence Diagrams.)*
+<br><br>
 
 ### 👥 User Roles
 The system design caters to three primary user roles:
 1.  **UTM Student:** Access personal health info, self-tests, appointments, health tips, queue status, give feedback.
 2.  **PKU Doctor:** Access relevant patient info (conceptually), manage appointments, view feedback, access own profile.
 3.  **PKU Administrator:** Manage user accounts, manage appointments, manage health tips, manage patient queue data, view feedback, access own profile.
-*(Detailed user characteristics are defined in the SRS, Section 2.1)*
+*(Detailed user characteristics are defined in the [SRS, Section 2.1](https://github.com/kohxuan/StudentHealthAndWellnessManagementSystem/blob/main/docs/SystemRequirementSpecification-SRS.pdf)*
 <br>
 
 ### 🎨 Design & Technology
@@ -61,25 +61,27 @@ A user-centric approach was adopted to create an intuitive and accessible interf
 *   Role-specific interfaces and prototypes for Students, Doctors, and Administrators.
 *   Visual feedback for actions (e.g., successful submission pop-ups).
 *   Consideration for accessibility standards (WCAG 2.1 mentioned).
-*Detailed UI overview and screen images for all system flows are available in the [SDD Document (Section 6)](https://docs.google.com/document/d/1wZM18js6_QeOm4MTLIUjTZGQgpz86zJT/edit).*
-<br>
+
+*Detailed UI overview and screen images for all system flows are available in the [SDD Document (Section 6)](https://github.com/kohxuan/StudentHealthAndWellnessManagementSystem/blob/main/docs/SystemDesignDescriptions-SDD.pdf).*
+<br><br>
 
 ### 🧪 Testing Approach (Conceptual)
 Although no code was written, the design's logic and flows were validated conceptually using a **Black-Box Testing** strategy.
 *   **Techniques:** Equivalence Partitioning (EP) and Boundary Value Analysis (BVA) were used to define test conditions for input fields and user actions within the Figma prototype.
 *   **Test Cases:** 17 detailed test cases (TC01-TC17) covering all major functionalities (UC01-UC17) were designed.
-*Detailed test cases, EP/BVA analysis, and the traceability matrix are available in the [STD Document](https://docs.google.com/document/d/1AfHNhbFiSWCmKlsLeY0AifdLKZqnFEtP/edit).*
-<br>
+
+*Detailed test cases, EP/BVA analysis, and the traceability matrix are available in the [STD Document](https://github.com/kohxuan/StudentHealthAndWellnessManagementSystem/blob/main/docs/SystemTestingDocumentation-STD.pdf).*
+<br><br>
 
 ### 📚 Project Documentation & Design Files
-| Document / File               | Link                                                                                                                                                            | Format      |
-| :---------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------- |
-| Project Proposal              | [View Proposal](https://github.com/drshahizan/software-engineering/tree/main/proposal/submission/sec02/Software)                                                | GitHub Dir  |
-| SRS Documentation             | [View SRS](https://docs.google.com/document/d/1IYG7GiCYAsp6VpTwAMfNKDYWtK1Ys9vY/edit)                                                                           | Google Doc  |
-| SDD Documentation             | [View SDD](https://docs.google.com/document/d/1wZM18js6_QeOm4MTLIUjTZGQgpz86zJT/edit)                                                                           | Google Doc  |
-| STD Documentation             | [View STD](https://docs.google.com/document/d/1AfHNhbFiSWCmKlsLeY0AifdLKZqnFEtP/edit)                                                                           | Google Doc  |
-| Figma UI Design File          | [Open Figma File](https://www.figma.com/file/j0nAd3Ph1MnHZljmIi8kTk/UI-Design?type=design&node-id=0-1&mode=design&t=FRriUK1E9AQFO2BO-0)                         | Figma       |
-| Figma High Fidelity (Alt Link) | [Open Figma File](https://www.figma.com/file/l76fJTJbZyY5oTFQS13les/High-Fidelity-Design?type=design&node-id=0-1&mode=design&t=LYWg1QTbaq1JAEzD-0)              | Figma       |
+| Document / File               | Link                                                                                                                                                            | 
+| :---------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Project Proposal              | <a href="https://github.com/kohxuan/StudentHealthAndWellnessManagementSystem/blob/main/docs/Proposal.md" ><img src="" width="24px" height="24px" ></a>                                                |
+| SRS Documentation             | [View SRS](https://docs.google.com/document/d/1IYG7GiCYAsp6VpTwAMfNKDYWtK1Ys9vY/edit)                                                                           |
+| SDD Documentation             | [View SDD](https://docs.google.com/document/d/1wZM18js6_QeOm4MTLIUjTZGQgpz86zJT/edit)                                                                           |
+| STD Documentation             | [View STD](https://docs.google.com/document/d/1AfHNhbFiSWCmKlsLeY0AifdLKZqnFEtP/edit)                                                                           |
+| Figma UI Design File          | [Open Figma File](https://www.figma.com/file/j0nAd3Ph1MnHZljmIi8kTk/UI-Design?type=design&node-id=0-1&mode=design&t=FRriUK1E9AQFO2BO-0)                         |
+| Figma High Fidelity (Alt Link) | [Open Figma File](https://www.figma.com/file/l76fJTJbZyY5oTFQS13les/High-Fidelity-Design?type=design&node-id=0-1&mode=design&t=LYWg1QTbaq1JAEzD-0)              |
 <br>
 
 ### ✨ Interactive Prototypes (Figma)
