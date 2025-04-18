@@ -88,6 +88,7 @@ Explore the user experience through dedicated prototypes for each role:
 | **Student**    | [![Figma Prototype][figma-proto-shield]](https://www.figma.com/proto/j0nAd3Ph1MnHZljmIi8kTk/UI-Design?type=design&node-id=138-31312&t=HpTPOmIpNtYfA6J9-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=138%3A31312) |
 | **Doctor**     | [![Figma Prototype][figma-proto-shield]](https://www.figma.com/proto/j0nAd3Ph1MnHZljmIi8kTk/UI-Design?type=design&node-id=169-31207&t=PY91ONQprdWeFRVu-0&scaling=scale-down&page-id=1%3A3&starting-point-node-id=169%3A31207)  |
 | **Admin**      | [![Figma Prototype][figma-proto-shield]](https://www.figma.com/proto/j0nAd3Ph1MnHZljmIi8kTk/UI-Design?type=design&node-id=169-32026&t=kHR7XsjA8CP5Sn6o-0&scaling=scale-down&page-id=1%3A4&starting-point-node-id=169%3A32026) |
+
 **How to Use:**
 1.  Click the badge or link for the desired user role.
 2.  Interact with the prototype directly in your browser.
@@ -118,6 +119,7 @@ The project progressed through distinct phases, resulting in versioned documenta
 | PR3.0   | SDD      | Ong Yi Yan                | 25/06/2023      | Software Design Description    |
 | PR4.0   | STD      | Lee Yik Hong              | 04/07/2023      | Software Test Description      |
 | 1.0     | Figma    | Team                      | (July 2023)     | Final Interactive Prototype    |
+
 *(Refer to Proposal Section 11 for detailed milestones)*
 <br>
 
