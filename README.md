@@ -80,59 +80,34 @@ Although no code was written, the design's logic and flows were validated concep
 | SRS Documentation             | <a href="https://github.com/kohxuan/StudentHealthAndWellnessManagementSystem/blob/main/docs/SystemRequirementSpecification-SRS.pdf" ><img src="https://github.com/user-attachments/assets/680fbc90-1078-4a35-8178-841f158b8f16" width="24px" height="24px" ></a>          |
 | SDD Documentation             | <a href="https://github.com/kohxuan/StudentHealthAndWellnessManagementSystem/blob/main/docs/SystemDesignDescriptions-SDD.pdf" ><img src="https://github.com/user-attachments/assets/680fbc90-1078-4a35-8178-841f158b8f16" width="24px" height="24px" ></a>          |
 | STD Documentation             | <a href="https://github.com/kohxuan/StudentHealthAndWellnessManagementSystem/blob/main/docs/SystemTestingDocumentation-STD.pdf" ><img src="https://github.com/user-attachments/assets/680fbc90-1078-4a35-8178-841f158b8f16" width="24px" height="24px" ></a>          |
-| Figma UI Design File          | <a href="https://www.figma.com/file/l76fJTJbZyY5oTFQS13les/High-Fidelity-Design?type=design&node-id=0-1&mode=design&t=LYWg1QTbaq1JAEzD-0" ><img src="" width="24px" height="24px" ></a>                         |
-| Figma High Fidelity (Alt Link) | [Open Figma File](https://www.figma.com/file/l76fJTJbZyY5oTFQS13les/High-Fidelity-Design?type=design&node-id=0-1&mode=design&t=LYWg1QTbaq1JAEzD-0)              |
+| Figma UI Design File          | <a href="https://www.figma.com/file/j0nAd3Ph1MnHZljmIi8kTk/UI-Design?type=design&node-id=0-1&mode=design&t=FRriUK1E9AQFO2BO-0" ><img src="https://github.com/user-attachments/assets/0b9cc8e9-8387-43d7-bbc5-88e24291ee5c" width="24px" height="24px" ></a>          |
+| Figma High Fidelity (Alt Link) | <a href="https://www.figma.com/file/l76fJTJbZyY5oTFQS13les/High-Fidelity-Design?type=design&node-id=0-1&mode=design&t=LYWg1QTbaq1JAEzD-0" ><img src="https://github.com/user-attachments/assets/0b9cc8e9-8387-43d7-bbc5-88e24291ee5c" width="24px" height="24px" ></a>          |
 <br>
 
 ### ✨ Interactive Prototypes (Figma)
 Explore the user experience through dedicated prototypes for each role:
 | Prototype Role | Link                                                                                                                                                                                           |
 | :------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Student**    | [![Figma Prototype][figma-proto-shield]](https://www.figma.com/proto/j0nAd3Ph1MnHZljmIi8kTk/UI-Design?type=design&node-id=138-31312&t=HpTPOmIpNtYfA6J9-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=138%3A31312) |
-| **Doctor**     | [![Figma Prototype][figma-proto-shield]](https://www.figma.com/proto/j0nAd3Ph1MnHZljmIi8kTk/UI-Design?type=design&node-id=169-31207&t=PY91ONQprdWeFRVu-0&scaling=scale-down&page-id=1%3A3&starting-point-node-id=169%3A31207)  |
-| **Admin**      | [![Figma Prototype][figma-proto-shield]](https://www.figma.com/proto/j0nAd3Ph1MnHZljmIi8kTk/UI-Design?type=design&node-id=169-32026&t=kHR7XsjA8CP5Sn6o-0&scaling=scale-down&page-id=1%3A4&starting-point-node-id=169%3A32026) |
+| **Student**    | <a href="https://www.figma.com/proto/j0nAd3Ph1MnHZljmIi8kTk/UI-Design?type=design&node-id=138-31312&t=HpTPOmIpNtYfA6J9-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=138%3A31312"><img src="https://github.com/user-attachments/assets/0b9cc8e9-8387-43d7-bbc5-88e24291ee5c" width="24px" height="24px" ></a> |
+| **Doctor**     | <a href="https://www.figma.com/proto/j0nAd3Ph1MnHZljmIi8kTk/UI-Design?type=design&node-id=169-31207&t=PY91ONQprdWeFRVu-0&scaling=scale-down&page-id=1%3A3&starting-point-node-id=169%3A31207" ><img src="https://github.com/user-attachments/assets/0b9cc8e9-8387-43d7-bbc5-88e24291ee5c" width="24px" height="24px" ></a>  |
+| **Administrator**      | <a href="https://www.figma.com/proto/j0nAd3Ph1MnHZljmIi8kTk/UI-Design?type=design&node-id=169-32026&t=kHR7XsjA8CP5Sn6o-0&scaling=scale-down&page-id=1%3A4&starting-point-node-id=169%3A32026" ><img src="https://github.com/user-attachments/assets/0b9cc8e9-8387-43d7-bbc5-88e24291ee5c" width="24px" height="24px" ></a> |
 
 **How to Use:**
 1.  Click the badge or link for the desired user role.
 2.  Interact with the prototype directly in your browser.
-3.  Refer to the SDD (Section 6) for screen descriptions if needed.
+3.  Refer to the [SDD (Section 6)](https://github.com/kohxuan/StudentHealthAndWellnessManagementSystem/blob/main/docs/SystemDesignDescriptions-SDD.pdf) for screen descriptions if needed.
 <br>
 
 ### 📊 Presentation
-A summary presentation of the project is available on Canva:
-*   **[View Project Presentation on Canva][canva-link]**
-<br>
+A summary presentation of the project is available on [Canva](https://www.canva.com/design/DAGk84QmbKg/sGHGl-HFrEQyed_3rfl3Yg/view?utm_content=DAGk84QmbKg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf969b64464)
+<br><br>
 
 ### 🤝 Team
-| Name           | Matric No. | Role                       | GitHub Profile                                      |
-| :------------- | :--------- | :------------------------- | :-------------------------------------------------- |
-| Lee Yik Hong   | A21BE0376  | User Experience Designer   | `[Link to Lee Yik Hong's Profile]` *(Replace Me)*     |
-| Koh Su Xuan    | A22EC0060  | Quality Assurance Tester   | [`@kohxuan`](https://github.com/kohxuan)            |
-| Tang Yan Qing  | A22EC0109  | Documentation Specialist   | [`@yan-qing09`](https://github.com/yan-qing09)      |
-| Goh Jiale      | A22EA0043  | Main Developer (Design Lead) | `[Link to Goh Jiale's Profile]` *(Replace Me)*      |
-| Ong Yi Yan     | A22EC0101  | Requirements Analyst       | [`@ONGYIYAN`](https://github.com/ONGYIYAN)          |
+| Name                                            | Matric No. | Role                         | 
+| :-------------                                  | :--------- | :-------------------------   | 
+| [Lee Yik Hong](https://github.com/YIKHONGLEE)   | A21BE0376  | User Experience Designer     |
+| [Koh Su Xuan](https://github.com/kohxuan)       | A22EC0060  | Quality Assurance Tester     |
+| [Tang Yan Qing](https://github.com/yan-qing09)  | A22EC0109  | Documentation Specialist     |
+| [Goh Jiale](https://github.com/Jialegoh)        | A22EA0043  | Main Developer (Design Lead) |
+| [Ong Yi Yan](https://github.com/ONGYIYAN)       | A22EC0101  | Requirements Analyst         |
 <br>
-
-### 🗓️ Project Timeline & Versions
-The project progressed through distinct phases, resulting in versioned documentation:
-| Version | Document | Primary Author(s)         | Completion Date | Description                    |
-| :------ | :------- | :------------------------ | :-------------- | :----------------------------- |
-| PR1.0   | Proposal | Goh Jiale                 | 04/05/2023      | Initial Solution Proposal      |
-| PR2.0   | SRS      | Tang Yan Qing, Koh Su Xuan | 06/06/2023      | Software Requirements Spec.    |
-| PR3.0   | SDD      | Ong Yi Yan                | 25/06/2023      | Software Design Description    |
-| PR4.0   | STD      | Lee Yik Hong              | 04/07/2023      | Software Test Description      |
-| 1.0     | Figma    | Team                      | (July 2023)     | Final Interactive Prototype    |
-
-*(Refer to Proposal Section 11 for detailed milestones)*
-<br>
-
-<!-- Or state: This project was developed for academic purposes. Please contact the authors for usage rights. -->
-
----
-
-<!-- Badge Definitions (Place at the end of the file) -->
-[figma-shield]: https://img.shields.io/badge/Design%20File-Figma-blue?logo=figma&style=flat-square
-[figma-design-link]: https://www.figma.com/file/j0nAd3Ph1MnHZljmIi8kTk/UI-Design?type=design&node-id=0-1&mode=design&t=FRriUK1E9AQFO2BO-0 <!-- Link to the main UI Design file -->
-[canva-shield]: https://img.shields.io/badge/Presentation-Canva-blue?logo=canva&style=flat-square
-[canva-link]: https://www.canva.com/design/DAFmkBQJ1x0/awqYswnS1zlDonCLZXw-dg/view?utm_content=DAFmkBQJ1x0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
-[figma-proto-shield]: https://img.shields.io/badge/Launch%20Prototype-Figma-green?logo=figma&style=flat-square
