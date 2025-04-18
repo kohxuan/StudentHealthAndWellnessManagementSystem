@@ -31,13 +31,14 @@ The key design objectives of the SHWMS prototype are:
 
 ### 🏗️ Scope & System Modules
 This project focuses entirely on the **design and documentation** of the SHWMS application using Figma. It does not involve coding, hardware implementation, or changes to existing PKU operational policies. The system design is organized into 7 core modules:
-- [P001: Authentication]
-- [P002: Account Management]
-- [P003: Patient Queue Management]
-- [P004: Health Tips]
-- [P005: Mental Health Support]
-- [P006: Dental Health Appointment]
-- [P007: Feedback and Reviews]
+- P001: Authentication
+- P002: Account Management
+- P003: Patient Queue Management
+- P004: Health Tips
+- P005: Mental Health Support
+- P006: Dental Health Appointment
+- P007: Feedback and Reviews
+
 *(Refer to the [SRS Document](https://docs.google.com/document/d/1IYG7GiCYAsp6VpTwAMfNKDYWtK1Ys9vY/edit) for detailed Use Case descriptions, Activity Diagrams, and Sequence Diagrams.)*
 <br>
 
