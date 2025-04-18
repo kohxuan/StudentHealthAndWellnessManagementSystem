@@ -80,22 +80,22 @@ Although no code was written, the design's logic and flows were validated concep
 | SRS Documentation             | <a href="https://github.com/kohxuan/StudentHealthAndWellnessManagementSystem/blob/main/docs/SystemRequirementSpecification-SRS.pdf" ><img src="https://github.com/user-attachments/assets/680fbc90-1078-4a35-8178-841f158b8f16" width="24px" height="24px" ></a>          |
 | SDD Documentation             | <a href="https://github.com/kohxuan/StudentHealthAndWellnessManagementSystem/blob/main/docs/SystemDesignDescriptions-SDD.pdf" ><img src="https://github.com/user-attachments/assets/680fbc90-1078-4a35-8178-841f158b8f16" width="24px" height="24px" ></a>          |
 | STD Documentation             | <a href="https://github.com/kohxuan/StudentHealthAndWellnessManagementSystem/blob/main/docs/SystemTestingDocumentation-STD.pdf" ><img src="https://github.com/user-attachments/assets/680fbc90-1078-4a35-8178-841f158b8f16" width="24px" height="24px" ></a>          |
-| Figma UI Design File          | <a href="https://www.figma.com/file/j0nAd3Ph1MnHZljmIi8kTk/UI-Design?type=design&node-id=0-1&mode=design&t=FRriUK1E9AQFO2BO-0" ><img src="https://github.com/user-attachments/assets/0b9cc8e9-8387-43d7-bbc5-88e24291ee5c" width="24px" height="24px" ></a>          |
-| Figma High Fidelity (Alt Link) | <a href="https://www.figma.com/file/l76fJTJbZyY5oTFQS13les/High-Fidelity-Design?type=design&node-id=0-1&mode=design&t=LYWg1QTbaq1JAEzD-0" ><img src="https://github.com/user-attachments/assets/0b9cc8e9-8387-43d7-bbc5-88e24291ee5c" width="24px" height="24px" ></a>          |
+| Figma UI Design               | <a href="https://www.figma.com/design/C7ch9sDyASu0IwGQAkdrdg/UI-Design?m=auto&t=npoGNzxSlWV88gP2-1" ><img src="https://github.com/user-attachments/assets/0b9cc8e9-8387-43d7-bbc5-88e24291ee5c" width="24px" height="24px" ></a>                                                     |
+| Figma High Fidelity           | <a href="https://www.figma.com/design/x5UMz9WXwmZzPAUMvTbjRb/High-Fidelity-Design?m=auto&t=npoGNzxSlWV88gP2-1" ><img src="https://github.com/user-attachments/assets/0b9cc8e9-8387-43d7-bbc5-88e24291ee5c" width="24px" height="24px" ></a>                                      |
 <br>
 
 ### ✨ Interactive Prototypes (Figma)
 Explore the user experience through dedicated prototypes for each role:
 | Prototype Role | Link                                                                                                                                                                                           |
 | :------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Student**    | <a href="https://www.figma.com/proto/j0nAd3Ph1MnHZljmIi8kTk/UI-Design?type=design&node-id=138-31312&t=HpTPOmIpNtYfA6J9-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=138%3A31312"><img src="https://github.com/user-attachments/assets/0b9cc8e9-8387-43d7-bbc5-88e24291ee5c" width="24px" height="24px" ></a> |
-| **Doctor**     | <a href="https://www.figma.com/proto/j0nAd3Ph1MnHZljmIi8kTk/UI-Design?type=design&node-id=169-31207&t=PY91ONQprdWeFRVu-0&scaling=scale-down&page-id=1%3A3&starting-point-node-id=169%3A31207" ><img src="https://github.com/user-attachments/assets/0b9cc8e9-8387-43d7-bbc5-88e24291ee5c" width="24px" height="24px" ></a>  |
-| **Administrator**      | <a href="https://www.figma.com/proto/j0nAd3Ph1MnHZljmIi8kTk/UI-Design?type=design&node-id=169-32026&t=kHR7XsjA8CP5Sn6o-0&scaling=scale-down&page-id=1%3A4&starting-point-node-id=169%3A32026" ><img src="https://github.com/user-attachments/assets/0b9cc8e9-8387-43d7-bbc5-88e24291ee5c" width="24px" height="24px" ></a> |
+| **Student**    | <a href="https://www.figma.com/proto/C7ch9sDyASu0IwGQAkdrdg/UI-Design?node-id=138-31312&p=f&t=CT8d5Tehpz6OAsF7-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=138%3A31312&hide-ui=1"><img src="https://github.com/user-attachments/assets/0b9cc8e9-8387-43d7-bbc5-88e24291ee5c" width="24px" height="24px" ></a> |
+| **Doctor**     | <a href="https://www.figma.com/proto/C7ch9sDyASu0IwGQAkdrdg/UI-Design?node-id=169-31207&p=f&t=8xf4MguovUF2s5ld-8&scaling=scale-down&content-scaling=fixed&page-id=1%3A3&starting-point-node-id=169%3A31207&hide-ui=1" ><img src="https://github.com/user-attachments/assets/0b9cc8e9-8387-43d7-bbc5-88e24291ee5c" width="24px" height="24px" ></a>  |
+| **Administrator**      | <a href="https://www.figma.com/proto/C7ch9sDyASu0IwGQAkdrdg/UI-Design?node-id=169-32026&p=f&t=NK5fjG2s59aiimIK-8&scaling=scale-down&content-scaling=fixed&page-id=1%3A4&starting-point-node-id=169%3A32026&hide-ui=1" ><img src="https://github.com/user-attachments/assets/0b9cc8e9-8387-43d7-bbc5-88e24291ee5c" width="24px" height="24px" ></a> |
 
-**How to Use:**
-1.  Click the badge or link for the desired user role.
-2.  Interact with the prototype directly in your browser.
-3.  Refer to the [SDD (Section 6)](https://github.com/kohxuan/StudentHealthAndWellnessManagementSystem/blob/main/docs/SystemDesignDescriptions-SDD.pdf) for screen descriptions if needed.
+> **How to Use:**
+> 1.  Click the badge or link for the desired user role.
+> 2.  Interact with the prototype directly in your browser.
+> 3.  Refer to the [SDD (Section 6)](https://github.com/kohxuan/StudentHealthAndWellnessManagementSystem/blob/main/docs/SystemDesignDescriptions-SDD.pdf) for screen descriptions if needed.
 <br>
 
 ### 📊 Presentation
