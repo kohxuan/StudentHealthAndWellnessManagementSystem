@@ -76,11 +76,11 @@ Although no code was written, the design's logic and flows were validated concep
 ### 📚 Project Documentation & Design Files
 | Document / File               | Link                                                                                                                                                            | 
 | :---------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Project Proposal              | <a href="https://github.com/kohxuan/StudentHealthAndWellnessManagementSystem/blob/main/docs/Proposal.md" ><img src="" width="24px" height="24px" ></a>                                                |
-| SRS Documentation             | [View SRS](https://docs.google.com/document/d/1IYG7GiCYAsp6VpTwAMfNKDYWtK1Ys9vY/edit)                                                                           |
-| SDD Documentation             | [View SDD](https://docs.google.com/document/d/1wZM18js6_QeOm4MTLIUjTZGQgpz86zJT/edit)                                                                           |
-| STD Documentation             | [View STD](https://docs.google.com/document/d/1AfHNhbFiSWCmKlsLeY0AifdLKZqnFEtP/edit)                                                                           |
-| Figma UI Design File          | [Open Figma File](https://www.figma.com/file/j0nAd3Ph1MnHZljmIi8kTk/UI-Design?type=design&node-id=0-1&mode=design&t=FRriUK1E9AQFO2BO-0)                         |
+| Project Proposal              | <a href="https://github.com/kohxuan/StudentHealthAndWellnessManagementSystem/blob/main/docs/Proposal.md" ><img src="https://github.com/user-attachments/assets/680fbc90-1078-4a35-8178-841f158b8f16" width="24px" height="24px" ></a>                                                |
+| SRS Documentation             | <a href="https://github.com/kohxuan/StudentHealthAndWellnessManagementSystem/blob/main/docs/SystemRequirementSpecification-SRS.pdf" ><img src="https://github.com/user-attachments/assets/680fbc90-1078-4a35-8178-841f158b8f16" width="24px" height="24px" ></a>          |
+| SDD Documentation             | <a href="https://github.com/kohxuan/StudentHealthAndWellnessManagementSystem/blob/main/docs/SystemDesignDescriptions-SDD.pdf" ><img src="https://github.com/user-attachments/assets/680fbc90-1078-4a35-8178-841f158b8f16" width="24px" height="24px" ></a>          |
+| STD Documentation             | <a href="https://github.com/kohxuan/StudentHealthAndWellnessManagementSystem/blob/main/docs/SystemTestingDocumentation-STD.pdf" ><img src="https://github.com/user-attachments/assets/680fbc90-1078-4a35-8178-841f158b8f16" width="24px" height="24px" ></a>          |
+| Figma UI Design File          | <a href="https://www.figma.com/file/l76fJTJbZyY5oTFQS13les/High-Fidelity-Design?type=design&node-id=0-1&mode=design&t=LYWg1QTbaq1JAEzD-0" ><img src="" width="24px" height="24px" ></a>                         |
 | Figma High Fidelity (Alt Link) | [Open Figma File](https://www.figma.com/file/l76fJTJbZyY5oTFQS13les/High-Fidelity-Design?type=design&node-id=0-1&mode=design&t=LYWg1QTbaq1JAEzD-0)              |
 <br>
 
