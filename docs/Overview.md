@@ -1,4 +1,5 @@
-# Activity: Group Software
+# [Overview of Project Student Health And Wellness Management System (SHWMS)](https://github.com/kohxuan/software-engineering/tree/main/project/project/sec02/software) 
+## Activity: Group Software
 
 ## Group Members
 <table>
